@@ -1,0 +1,2 @@
+  method HELLO.
+  endmethod.
