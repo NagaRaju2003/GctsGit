@@ -1,3 +1,3 @@
   method Z_HELLOWORLD.
-    write 'hello world from ro'.
+    write 'hello world from ro good morinong'.
   endmethod.
