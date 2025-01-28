@@ -1,3 +1,3 @@
   method Z_HELLOWORLD.
-    write 'rropl062 -- releaseowl'.
+    write 'rropl062  releaseowl'.
   endmethod.
