@@ -2,4 +2,5 @@
     write 'hello'.
     write 'neww'.
     write 'one'.
+    write 'two'.
   endmethod.
