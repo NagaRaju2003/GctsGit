@@ -4,4 +4,5 @@
     write 'one'.
     write 'two'.
     WRITE 'thrree'.
+    WRITE 'four'.
   endmethod.
