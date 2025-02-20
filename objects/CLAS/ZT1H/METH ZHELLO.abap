@@ -5,6 +5,6 @@
     write 'two'.
     WRITE 'thrree'.
     WRITE 'fours'.
-    write 'fives'.
+    write 'fives00'.
     write 'sixes'.
   endmethod.
