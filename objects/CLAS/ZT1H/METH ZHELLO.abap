@@ -4,7 +4,7 @@
     write 'one'.
     write 'two'.
     WRITE 'thrree'.
-    WRITE 'four'.
+    WRITE 'fours'.
     write 'fives'.
     write 'sixes'.
   endmethod.
