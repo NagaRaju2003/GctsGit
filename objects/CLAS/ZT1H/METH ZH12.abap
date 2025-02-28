@@ -1,3 +1,3 @@
   method ZH12.
-    write 'new12334'.
+    write 'new1233411'.
   endmethod.
