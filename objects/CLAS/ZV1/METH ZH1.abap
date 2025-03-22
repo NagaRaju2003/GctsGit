@@ -2,5 +2,5 @@
     write 'helloworld'.
     write 'new123'.
     write 'nqa11332'.
-    write 'h1'.
+    write 'h1hh'.
   endmethod.
