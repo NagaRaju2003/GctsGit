@@ -1,3 +1,3 @@
   method ZABA.
-    write 'naga'.
+    write 'nagaraju'.
   endmethod.
