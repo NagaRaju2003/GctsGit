@@ -4,4 +4,5 @@
     write 'naa'.
     write 'europe'.
     write 'apple'.
+    write 'ant'.
   endmethod.
