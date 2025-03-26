@@ -5,4 +5,5 @@
     write 'europe'.
     write 'apple'.
     write 'ant'.
+    write 'fan'.
   endmethod.
