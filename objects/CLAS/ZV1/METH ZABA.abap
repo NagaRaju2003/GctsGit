@@ -11,4 +11,6 @@
     write 'orange'.
     write 'qa'.
     write 'nnn'.
+    write 'jj'.
+    write 'nnn'.
   endmethod.
