@@ -5,7 +5,6 @@
     write 'europe'.
     write 'apple'.
     write 'ant'.
-    write 'fan'.
     write 'nn'.
     write 'ball'.
     write 'onn'.
