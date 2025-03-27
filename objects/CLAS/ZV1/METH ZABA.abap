@@ -13,4 +13,5 @@
     write 'nnn'.
     write 'jj'.
     write 'nnn'.
+    write 'one'.
   endmethod.
