@@ -101,6 +101,12 @@
    },
    {
     "CLSNAME":"ZV1",
+    "CMPNAME":"ZNEW1",
+    "CMPTYPE":1,
+    "MTDTYPE":0
+   },
+   {
+    "CLSNAME":"ZV1",
     "CMPNAME":"ZT1",
     "CMPTYPE":1,
     "MTDTYPE":0
@@ -284,6 +290,63 @@
    },
    {
     "CLSNAME":"ZV1",
+    "CMPNAME":"ZNEW1",
+    "VERSION":1,
+    "ALIAS":"",
+    "REDEFIN":"",
+    "EXPOSURE":0,
+    "STATE":1,
+    "EDITORDER":5,
+    "LOCKED":"",
+    "DISPID":0,
+    "R3RELEASE":"757",
+    "AUTHOR":"",
+    "CREATEDON":"0000-00-00",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "MTDDECLTYP":0,
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "DSRNOTEOM":"",
+    "EDTX":"",
+    "MTDNEWEXC":"",
+    "MTDREPLACE":"",
+    "MTDOPTNL":"",
+    "MTDAMDPRDONLY":"",
+    "MTDAMDPCDSCLNT":"",
+    "ATTDECLTYP":0,
+    "ATTDYNAMIC":"",
+    "ATTGETMTD":"",
+    "ATTSETMTD":"",
+    "ATTRDONLY":"",
+    "ATTVALUE":"",
+    "ATTPERSIST":"",
+    "ATTBUSOBJ":"",
+    "ATTKEYFLD":"",
+    "ATTEXPVIRT":0,
+    "EVTDECLTYP":0,
+    "TYPDUMMY":"",
+    "TYPTYPE":0,
+    "TYPE":"",
+    "TABLEOF":"",
+    "SRCROW1":0,
+    "SRCCOLUMN1":0,
+    "SRCROW2":0,
+    "SRCCOLUMN2":0,
+    "REFCLSNAME":"",
+    "REFINTNAME":"",
+    "REFCMPNAME":"",
+    "BCMTDINST":"",
+    "BCMTDCAT":0,
+    "BCMTDDIA":"",
+    "BCMTDCOM":"",
+    "BCMTDSYN":0,
+    "BCEVTCAT":0,
+    "TYPESRC_LENG":0,
+    "TYPESRC":""
+   },
+   {
+    "CLSNAME":"ZV1",
     "CMPNAME":"ZT1",
     "VERSION":1,
     "ALIAS":"",
@@ -365,6 +428,12 @@
    },
    {
     "CLSNAME":"ZV1",
+    "CMPNAME":"ZNEW1",
+    "LANGU":"E",
+    "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"ZV1",
     "CMPNAME":"ZT1",
     "LANGU":"E",
     "DESCRIPT":""
@@ -433,6 +502,12 @@
     "CLASSNAME":"ZV1",
     "METHODINDX":4,
     "METHODNAME":"ZT1",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZV1",
+    "METHODINDX":5,
+    "METHODNAME":"ZNEW1",
     "FLAGS":0
    }
   ]
@@ -547,6 +622,19 @@
    },
    {
     "NAME":"ZV1===========================CM004",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"ROPL062",
+    "RMAND":"100",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZV1===========================CM005",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
