@@ -83,6 +83,12 @@
   [
    {
     "CLSNAME":"ZV1",
+    "CMPNAME":"ZABA",
+    "CMPTYPE":1,
+    "MTDTYPE":0
+   },
+   {
+    "CLSNAME":"ZV1",
     "CMPNAME":"ZH1",
     "CMPTYPE":1,
     "MTDTYPE":0
@@ -339,6 +345,12 @@
   "table":"SEOCOMPOTX",
   "data":
   [
+   {
+    "CLSNAME":"ZV1",
+    "CMPNAME":"ZABA",
+    "LANGU":"E",
+    "DESCRIPT":""
+   },
    {
     "CLSNAME":"ZV1",
     "CMPNAME":"ZH1",
