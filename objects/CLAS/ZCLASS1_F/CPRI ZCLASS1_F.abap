@@ -4,3 +4,4 @@ private section.
   methods ZFILE2 .
   methods ZFILE3 .
   methods ZFILE4 .
+  methods ZFILE5 .
