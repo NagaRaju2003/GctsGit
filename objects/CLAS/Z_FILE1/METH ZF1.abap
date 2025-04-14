@@ -1,3 +1,3 @@
   method ZF1.
-    write 'he'.
+    write 'hello'.
   endmethod.

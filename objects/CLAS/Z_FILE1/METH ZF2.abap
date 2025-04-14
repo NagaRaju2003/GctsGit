@@ -1,3 +1,3 @@
   method ZF2.
-    write 'hello'.
+    write 'helloworld'.
   endmethod.
