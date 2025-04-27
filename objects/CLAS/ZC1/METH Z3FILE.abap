@@ -4,4 +4,5 @@
     write '4modi'.
     write 'modify123'.
     write 'modify1234'.
+    WRITE 'NEW'.
   endmethod.
