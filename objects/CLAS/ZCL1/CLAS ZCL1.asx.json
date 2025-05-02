@@ -86,6 +86,12 @@
     "CMPNAME":"ZF1",
     "CMPTYPE":1,
     "MTDTYPE":0
+   },
+   {
+    "CLSNAME":"ZCL1",
+    "CMPNAME":"ZF2",
+    "CMPTYPE":1,
+    "MTDTYPE":0
    }
   ]
  },
@@ -149,6 +155,63 @@
     "BCEVTCAT":0,
     "TYPESRC_LENG":0,
     "TYPESRC":""
+   },
+   {
+    "CLSNAME":"ZCL1",
+    "CMPNAME":"ZF2",
+    "VERSION":1,
+    "ALIAS":"",
+    "REDEFIN":"",
+    "EXPOSURE":0,
+    "STATE":1,
+    "EDITORDER":2,
+    "LOCKED":"",
+    "DISPID":0,
+    "R3RELEASE":"757",
+    "AUTHOR":"",
+    "CREATEDON":"0000-00-00",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "MTDDECLTYP":0,
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "DSRNOTEOM":"",
+    "EDTX":"",
+    "MTDNEWEXC":"",
+    "MTDREPLACE":"",
+    "MTDOPTNL":"",
+    "MTDAMDPRDONLY":"",
+    "MTDAMDPCDSCLNT":"",
+    "ATTDECLTYP":0,
+    "ATTDYNAMIC":"",
+    "ATTGETMTD":"",
+    "ATTSETMTD":"",
+    "ATTRDONLY":"",
+    "ATTVALUE":"",
+    "ATTPERSIST":"",
+    "ATTBUSOBJ":"",
+    "ATTKEYFLD":"",
+    "ATTEXPVIRT":0,
+    "EVTDECLTYP":0,
+    "TYPDUMMY":"",
+    "TYPTYPE":0,
+    "TYPE":"",
+    "TABLEOF":"",
+    "SRCROW1":0,
+    "SRCCOLUMN1":0,
+    "SRCROW2":0,
+    "SRCCOLUMN2":0,
+    "REFCLSNAME":"",
+    "REFINTNAME":"",
+    "REFCMPNAME":"",
+    "BCMTDINST":"",
+    "BCMTDCAT":0,
+    "BCMTDDIA":"",
+    "BCMTDCOM":"",
+    "BCMTDSYN":0,
+    "BCEVTCAT":0,
+    "TYPESRC_LENG":0,
+    "TYPESRC":""
    }
   ]
  },
@@ -159,6 +222,12 @@
    {
     "CLSNAME":"ZCL1",
     "CMPNAME":"ZF1",
+    "LANGU":"E",
+    "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"ZCL1",
+    "CMPNAME":"ZF2",
     "LANGU":"E",
     "DESCRIPT":""
    }
@@ -208,6 +277,12 @@
     "CLASSNAME":"ZCL1",
     "METHODINDX":1,
     "METHODNAME":"ZF1",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZCL1",
+    "METHODINDX":2,
+    "METHODNAME":"ZF2",
     "FLAGS":0
    }
   ]
@@ -283,6 +358,19 @@
    },
    {
     "NAME":"ZCL1==========================CM001",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "UNAM":"ROPL062",
+    "RMAND":"100",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"ZCL1==========================CM002",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
