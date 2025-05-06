@@ -5,4 +5,5 @@
     write 'v23'.
     write 'v5'.
     write 'v5'.
+    write 'v6'.
   endmethod.
