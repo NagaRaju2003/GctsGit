@@ -3,4 +3,5 @@
     write 'version2'.
     write 'v3'.
     write 'v4'.
+    write 'v5'.
   endmethod.
