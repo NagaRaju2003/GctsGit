@@ -1,6 +1,4 @@
 private section.
 
-  methods Z1FILE .
-  methods Z2FILE .
-  methods Z3FILE .
-  methods Z4FILE .
+  methods ZF1 .
+  methods ZF2 .
