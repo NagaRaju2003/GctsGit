@@ -4,4 +4,5 @@
     WRITE 'new2'.
     WRITE 'n1'.
     WRITE 'nn'.
+    WRITE 'mqa'.
   endmethod.
