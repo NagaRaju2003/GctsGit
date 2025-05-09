@@ -8,4 +8,5 @@
     WRITE 'nine'.
     WRITE 'om'.
     WRITE 'mm'.
+    WRITE 'mo'.
   endmethod.
