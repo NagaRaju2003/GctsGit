@@ -5,4 +5,5 @@
     WRITE 'n1'.
     WRITE 'nn'.
     WRITE 'mqa'.
+    WRITE 'nine'.
   endmethod.
