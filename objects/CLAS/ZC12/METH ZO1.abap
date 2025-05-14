@@ -4,4 +4,5 @@
     write 'new2'.
     write 'new3'.
     WRITE 'new4'.
+    WRITE 'new5'.
   endmethod.
